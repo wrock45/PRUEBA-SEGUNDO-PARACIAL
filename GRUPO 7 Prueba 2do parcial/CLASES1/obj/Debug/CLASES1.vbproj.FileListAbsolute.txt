@@ -1,0 +1,10 @@
+C:\Users\Ricardo\source\repos\WindowsApp3\CLASES1\bin\Debug\CLASES1.dll
+C:\Users\Ricardo\source\repos\WindowsApp3\CLASES1\bin\Debug\CLASES1.pdb
+C:\Users\Ricardo\source\repos\WindowsApp3\CLASES1\bin\Debug\CLASES1.xml
+C:\Users\Ricardo\source\repos\WindowsApp3\CLASES1\obj\Debug\CLASES1.vbproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\WindowsApp3\CLASES1\obj\Debug\CLASES1.Resources.resources
+C:\Users\Ricardo\source\repos\WindowsApp3\CLASES1\obj\Debug\CLASES1.vbproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\WindowsApp3\CLASES1\obj\Debug\CLASES1.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\WindowsApp3\CLASES1\obj\Debug\CLASES1.dll
+C:\Users\Ricardo\source\repos\WindowsApp3\CLASES1\obj\Debug\CLASES1.xml
+C:\Users\Ricardo\source\repos\WindowsApp3\CLASES1\obj\Debug\CLASES1.pdb
